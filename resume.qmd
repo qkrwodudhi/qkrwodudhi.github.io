@@ -2,11 +2,9 @@
 layout: cv
 title: Young Park's CV
 ---
-#Young Park
-Student, Data Visualization Specialist
-
+## Young Park
+- Student, Data Visualization Specialist
 <a href="you20031@byui.edu">you20031@byui.edu</a>
-</div>
 
 ## Currently
 Student, BYU-I student record office Data Visualization Specialist
