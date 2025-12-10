@@ -4,7 +4,7 @@ title: Young Park's CV
 ---
 ## Young Park
 - Student, Data Visualization Specialist
-<a href="you20031@byui.edu">you20031@byui.edu</a>
+- <a href="you20031@byui.edu">you20031@byui.edu</a>
 
 ## Currently
 Student, BYU-I student record office Data Visualization Specialist
